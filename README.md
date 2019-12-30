@@ -4,7 +4,7 @@ Homework 2 Execution
 
 1. Directory Structure
 
-	20184187_DinhVu
+		master
 		|
 		|-- Test_images
 		|-- 20184187_DIP_hw2_Report.pdf
@@ -14,7 +14,7 @@ Homework 2 Execution
 		|-- Problem_3.m
 		|-- Problem_4.m
 		|-- Problem_5.m
-		|-- README.txt
+		|-- README.md
 
 2. Setup Directory to Test_images
 
@@ -26,6 +26,6 @@ Homework 2 Execution
 
 3. Execution & Report
 	
-	- Open Matlab with workspace is 20184187_DinhVu folder.
-	- In the command window, type: exe_hw2
+	- Open Matlab with workspace is your master folder.
+	- In the your consol, type: exe_hw2
 	- Read 20184187_DIP_hw2_Report.pdf for explanation method and analysis result.
