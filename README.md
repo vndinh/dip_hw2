@@ -22,7 +22,7 @@ Homework 2 Execution
 	Problem_1.m, Problem_2.m, Problem_3.m, Problem_4.m, Problem_5.m,
 	change the link to Test_images folder coresponding with the execution computer.
 
-	imgdir = uigetdir('D:\KAIST\Courses\dip\hw\hw2\Test_images');
+	imgdir = uigetdir('Your_master_folder\Test_images');
 
 3. Execution & Report
 	
